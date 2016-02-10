@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN41420ucmf_4_0008.png"; bbox 0 0 2359 3368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 184 535 1141 1810">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 184 360 1141 1810">
+     <span class='ocr_line' id='line_1_1' title="bbox 184 535 1085 826; baseline -0.019 0"><span class='ocrx_word' id='word_1_1' title='bbox 184 535 689 826; x_wconf 76' lang='lat' dir='ltr'>Codex</span> <span class='ocrx_word' id='word_1_2' title='bbox 741 618 1085 813; x_wconf 78' lang='lat' dir='ltr'>vero</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 196 990 1141 1356; baseline -0.019 -77"><span class='ocrx_word' id='word_1_3' title='bbox 196 990 1141 1356; x_wconf 78' lang='lat' dir='ltr'>[mieroform]</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 188 1445 1108 1810; baseline -0.011 -77"><span class='ocrx_word' id='word_1_4' title='bbox 188 1445 971 1810; x_wconf 78' lang='lat' dir='ltr'>Euangelia</span> <span class='ocrx_word' id='word_1_5' title='bbox 1027 1535 1108 1723; x_wconf 79' lang='lat' dir='ltr'>a</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 190 1908 1180 2265">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 190 1908 1180 2265">
+     <span class='ocr_line' id='line_1_4' title="bbox 190 1908 1180 2265; baseline -0.02 -79"><span class='ocrx_word' id='word_1_6' title='bbox 190 1908 1082 2265; x_wconf 79' lang='lat' dir='ltr'>Hieronymu</span> <span class='ocrx_word' id='word_1_7' title='bbox 1169 2022 1180 2166; x_wconf 85' lang='grc' dir='ltr'>ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1197 3368">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1197 3368">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1197 3368; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1197 3368; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 54 2827 1178 3184">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 54 2827 1178 3184">
+     <span class='ocr_line' id='line_1_6' title="bbox 54 2827 1178 3184; baseline 0 -79"><span class='ocrx_word' id='word_1_9' title='bbox 54 3130 55 3133; x_wconf 0' lang='grc' dir='ltr'> </span> <span class='ocrx_word' id='word_1_10' title='bbox 194 2838 765 3184; x_wconf 79' lang='lat' dir='ltr'>Pragae,</span> <span class='ocrx_word' id='word_1_11' title='bbox 845 2827 1178 3106; x_wconf 82' lang='lat'>190</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
